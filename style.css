@@ -24,7 +24,7 @@ body {
   background: var(--paper);
   color: var(--ink);
   font-family: "Roboto", sans-serif;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 300;
   line-height: 1.6;
 }
@@ -82,7 +82,7 @@ a:focus-visible {
 
 .site_nav a,
 .site_footer a:not(.brand) {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   text-decoration: none;
   transition: color 180ms ease;
 }
@@ -122,7 +122,7 @@ a:focus-visible {
 .eyebrow {
   margin-bottom: 18px;
   color: #d6e4df;
-  font-size: 0.76rem;
+  font-size: 0.88rem;
   font-weight: 500;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -174,7 +174,7 @@ a:focus-visible {
   padding: 0 20px;
   border: 1px solid transparent;
   border-radius: 3px;
-  font-size: 0.93rem;
+  font-size: 1rem;
   font-weight: 500;
   text-decoration: none;
   transition:
@@ -206,7 +206,7 @@ a:focus-visible {
   right: max(6vw, calc((100vw - var(--content-width)) / 2));
   bottom: 36px;
   color: #e0e8e6;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   text-decoration: none;
 }
 
@@ -291,7 +291,7 @@ a:focus-visible {
 .card_number {
   margin-bottom: 10px;
   color: #607876;
-  font-size: 0.7rem;
+  font-size: 0.82rem;
   font-weight: 500;
   letter-spacing: 0.12em;
 }
@@ -304,7 +304,7 @@ a:focus-visible {
 
 .card_content > p:last-child {
   color: var(--muted);
-  font-size: 0.93rem;
+  font-size: 1rem;
 }
 
 .about_contact {
@@ -366,7 +366,7 @@ a:focus-visible {
 .site_footer p,
 .site_footer a:not(.brand) {
   color: #c5d0ce;
-  font-size: 0.82rem;
+  font-size: 0.9rem;
 }
 
 @media (max-width: 800px) {
@@ -394,7 +394,7 @@ a:focus-visible {
   }
 
   .site_nav a {
-    font-size: 0.8rem;
+    font-size: 0.88rem;
   }
 
   .site_nav .nav_contact {
